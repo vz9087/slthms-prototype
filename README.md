@@ -23,4 +23,4 @@ Deploy
 - Upload this repo to Loveable AI as a Streamlit app. Set `app.py` as entry and include the system prompt provided earlier.
 
 Author
-- Duck (assistant)
+- Vishal V P [4JD23CS175]
